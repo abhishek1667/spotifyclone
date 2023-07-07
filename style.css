@@ -24,7 +24,7 @@ body {
 .sidebar {
     width: 25.29rem;
     margin-right: 0.5rem;
-    height: 66.99vh;
+    height: 63.45vh;
 }
 
 .main-content {
@@ -33,7 +33,7 @@ body {
     flex: 1;
     overflow: auto;
     height: ;
-    height: 85.55vh;
+    height: 83.99vh;
 }
 
 .music-player {
